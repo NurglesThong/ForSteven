@@ -1,0 +1,44 @@
+networks:
+  rhino_network:
+    driver: bridge
+
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: data
+    ports:
+      - "5432:5432"
+    networks:
+      - rhino_network
+    volumes:
+      - postgres_data:/var/lib/postgresql/data  # Mount volume here
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@email.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "8080:80"
+    depends_on:
+      - postgres
+    networks:
+      - rhino_network
+
+  app:
+    build:
+      context: ./app
+    volumes:
+      - ./app:/app
+    ports:
+      - "8050:8050"
+    depends_on:
+      - postgres
+    networks:
+      - rhino_network
+
+volumes:
+  postgres_data:  # Define the named volume here

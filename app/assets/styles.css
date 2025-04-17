@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+
+
+html {
+    ::-webkit-scrollbar {
+        display: none;
+        /* Chrome, Safari */
+    }
+
+    -ms-overflow-style: none;
+    /* IE, Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+
