@@ -1,0 +1,219 @@
+[10:39:06] WF_Clark: STARTEX
+[10:39:34] wf_beep: AOC_CCO: @Hydro status Lane Wynn
+[10:39:49] Hydro_SL: @AOC status Wynn, Hydro on sta 
+[10:39:56] Hydro_MSO: Intel, color TN 44642
+[10:40:08] Hydro_SL: @ TR21-24 est cap A , Money 01-4 est lane b
+[10:40:23] WF_FYST: IntelOPS: @ Hydro_MSO stand by.
+[10:40:39] Hydro_SL: @ROCK_SL , surf track 44833 in bellagio 
+[10:41:09] Hydro_SL: @Space_Ops req intel land trk 44834 if able
+[10:41:13] Hydro_MSO: Intel, request status on TN 44834
+[10:41:25] wf_beep: AOC_SIDO: @Hydro c TN44834, working
+[10:41:32] WF_Shoresy8: Space_Ops Hydro_SL Working
+[10:42:25] Hydro_SL: @Space Ops, c ty
+[10:42:50] WF_Chairman: Rock_SL: Hydro_SL, affirm tracking 44833
+[10:42:54] WF_FYST: IntelOPS: @ Hydro_MSO 44642 is civilian aircraft.
+[10:43:01] Hydro_MSO: c, civ
+[10:43:42] Hydro_MSO: c, TN44642 is civ
+[10:44:13] WF_Shoresy8: Space_Ops @Hydro_SL TN 44834 Adversary DDG1 
+[10:44:14] wf_beep: AOC_CCO: @Hydro status tn44834?
+[10:44:44] Hydro_SL: @AOC CCO_ , tn44834 upgrade ID To hostile, DDG1 
+[10:44:52] Hydro_MSO: c, TN44834 DDG 1
+[10:44:53] Hydro_SL: Tiger 21 enr smack tasking
+[10:44:58] WF_FYST: Intel OPS: @Hydro_MSO 44834 is adversary naval guided missile destroyer
+[10:45:02] WF_Clark: Floater03_OPS (USS Cole DDG): @Maritime_OPS (Maritime Operations Center) Possible UAV swarm approaching from south, type unk.  Main generator still inop, drifting WNW at 5 knots, req support in Lane Ceasars
+[10:45:14] Hydro_MSO: Intel, color TN 44846 x4
+[10:45:22] Hydro_SL: @Cyber ups, req intele possible UAV swarm 
+[10:45:41] wf_beep: AOC_CCO: @Hydro c tn44834, tot when able
+[10:45:56] Hydro_MSO: Intel, color TN 44641
+[10:46:00] WF_Shoresy8: Cyber_Ops @Hydro_SL Working
+[10:46:00] Hydro_SL: @Cyberops, approaching from south, type unk. Main generator still inop, drifting WNW at 5 knots
+[10:46:12] Hydro_MSO: Intel, color TN 44640
+[10:46:13] Hydro_SL: @AOC CCO c , stby TOT
+[10:46:44] wf_beep: AOC_CCO: @Hydro c thx
+[10:47:00] WF_Clark: SCREWTOP (E-2D HAWKEYE): @TOC02_OPS (Tactical Operations Center 02) HORNET41 (F18F) commit on Track #E4123 in Lane Excalibur
+[10:47:06] Hydro_SL: @AOC req tanker suppt PR55 establ legs 60nm, enr be 093/141
+[10:47:13] WF_Shoresy8: Cyber_Ops @Hydro_SL Confirm UAV swarm 6x group 1 UAV, ISR dones
+[10:47:28] WF_FYST: Intel OPS: @Hydro_MSO TN 44846 is fishing vessel
+[10:47:49] Hydro_SL: @AOC req addl tanker suppt lane excalibur iso hornet41 commit 
+[10:47:52] wf_beep: AOC_CCO: @Hydro c tanker pr55 working
+[10:48:00] Hydro_MSO: c, 44846 fishing vessel
+[10:48:04] Hydro_SL: @Rock _SL move assets to fwd cap iso commit
+[10:48:18] Hydro_SL: @Cyber ops copy UAV swarm
+[10:48:31] WF_FYST: Intel OPS: Hydro_MSO TN 44640 is civilian aircraft
+[10:48:31] Hydro_SL: @ROck SL, update Cyber_Ops @Hydro_SL Confirm UAV swarm 6x group 1 UAV, ISR dones 
+[10:48:38] Hydro_SL: @AOC TOT smack tasking 15 mike
+[10:48:53] wf_beep: AOC_CCO: @Hydro c 44834 15 m, standing by bda
+[10:48:58] WF_Clark: Analysis_Center01 (Analysis Center): @Intel_Ops (Intelligence Operations Center) 2x J-16s were observed on EO/IR Imagery located on parking apron forward of aircraft hangers IVO 25.045310306035184, -77.464458773165 in Lane Flamingo
+[10:49:41] WF_FYST: IntelOPS: @ AnalysisCenter, copy. 
+[10:49:46] WF_Chairman: Rock_SL: Hydro_SL, moving PR55 west 40 nm
+[10:50:11] WF_Clark: SCREWTOP (E-2D HAWKEYE): @TOC02_OPS (Tactical Operations Center 02) RHINO11 (FA-18) commit on Track #B4135 in Lane Bellagio
+[10:50:25] wf_beep: AOC_CCO: Hydro_MSO c 44846 civilian, assume the unknown ID is just a link thing?
+[10:50:42] Hydro_SL: @IntelOps, c J-16's please update if J16's takeoff
+[10:50:43] WF_Chairman: ROCK_SL: AOC_CCO, TR34 updating mission SMACK TN44833 hostile DDG Type 2
+[10:50:55] Hydro_MSO: Intel, color TN 44845,44848, 44847
+[10:51:09] Hydro_SL: @Rock SL, move Ghosts fwd to support commit on #B4135
+[10:51:17] WF_FYST: Intel OPS: Hydro_SL will do.
+[10:51:38] Hydro_MSO: Intel, color TN 44849
+[10:51:48] Hydro_SL: C Tn44833 DDGtype 2
+[10:51:55] WF_Chairman: Boulder_SL: @SCREWTOP, copy RO11 commiting B4135
+[10:51:58] WF_Clark: Floater05_OPS (USS Guam DDG): @Maritime_OPS (Maritime Operations Center) Starting to recover first wave of AAVs.  Will start loading in about 15 min and it will take 1.5 hours to launch the second wave
+[10:52:36] wf_beep: AOC_CCO: Boulder c RO11 commit
+[10:52:56] Hydro_SL: @Maritime Ops_ hydro ready to support if needed
+[10:53:00] Hydro_MSO: Intel, color TN 44853
+[10:53:06] WF_Clark: TOC01_OPS (Tactical Operations Center 01): @AOC_Ops (Air Operations Center) BONE04 (B1B) still has 3xJASSM remaining after strike on Track #B5067 in Lane Bellagio
+[10:53:38] Hydro_SL: @Boulder_SL GT06 showing emergency lane 4
+[10:54:11] Hydro_SL: @Boulder SL update hdyro if bailout 
+[10:54:11] WF_Chairman: ROCK_SL: @AOC_CCO, TR34 reports 44833 destroyed, returning to CAP
+[10:54:23] WF_FYST: IntelOPS: Hydro_MSO, intel ops is having some comm issues right now, working your asks.
+[10:54:33] WF_Shoresy8: Intel_Ops: Hydro_SL TN 44849 fishing vessel
+[10:54:35] Hydro_SL: @Intel ops , hydro copy comm 
+[10:55:00] WF_Clark: Analysis_Center01 (Analysis Center): @AOC_Ops (Air Operations Center) Possible Launch 26.341260817358034, -80.07799795384776 in Lane Flamingo
+[10:55:13] Hydro_MSO: c, tag TN 44849 fishing vessel
+[10:55:22] Hydro_SL: @Rock_SL tgt lane crosser tn 44641 , BE 289/102, 31K hostile
+[10:55:23] WF_Shoresy8: Intel_Ops: Hydro_SL TN 44845, 44848, 44847   J-15
+[10:56:36] Hydro_SL: @Boulder SL, poss launch in flamingo status assets
+[10:56:46] WF_Chairman: Boulder_SL: @AOC_CCO, Hydro_SL GT06 bailout GT05 overhead OSCAR
+[10:56:50] Hydro_SL: @Intel ops, status poss launch lane flamingo Possible Launch 26.341260817358034, -80.07799795384776 in Lane Flamingo
+[10:56:56] Hydro_MSO: c, tab TN 44845/47/48 J15
+[10:57:09] WF_Clark: Analysis_Center01 (Analysis Center): @Intel_Ops (Intelligence Operations Center) From 1210Z to 1215Z Radio emmission were detected at location D operating on high frequencies. in Lane Luxor
+[10:57:15] Hydro_SL: Hyddro c GT05 bailout, working JPR 
+[10:57:20] WF_Shoresy8: Intel_Ops: Hydro_SL working
+[10:57:43] Hydro_SL: @JPRC GT06 Bailout last known 210/169
+[10:58:07] wf_beep: AOC_CCO: @Hydro bailout GT06, any eyes on chutes?
+[10:58:25] wf_beep: JPRC: c GT06 working
+[10:58:32] Hydro_SL: @RoCK _SL status GT06 
+[10:58:35] Hydro_MSO: Intel, color tN44845/46
+[10:58:48] WF_Shoresy8: intel_ops: Hydro_SL Neg Launch. Overhead IR indicates test event
+[10:58:57] WF_Clark: CyberCOM_OPS (Cyber Command Unit): @Cyber_Ops (Cyber Defense Unit) Ref network A, event: Unsual amount of  forward lookup requests to evilattacker.com, suspect DNS exfiltration
+[10:59:16] Hydro_MSO: Intel,, color tN 44840/41
+[10:59:24] Hydro_SL: @intel ops c tet event 
+[10:59:48] Hydro_SL: @Cybercomm, hydro c event 
+[11:00:11] WF_Clark: Analysis_Center01 (Analysis Center): @Intel_Ops (Intelligence Operations Center) From 1205Z to 2111Z Radio emmission were detected at location  27.689097938330395, -80.38238737940404 operating on VHF. in Lane Bellagio
+[11:00:12] WF_Chairman: Rock_SL: Hydro_SL, GT06 positive chute confirmed. KT01 enroute for PR
+[11:00:14] Hydro_SL: @Rock_SL hostile grp 541/52 untgt'd lane 2 
+[11:00:14] WF_FYST: Intelops: Hydro_SL. copy.
+[11:00:42] WF_FYST: Intelops: @analysiscenter, copy.
+[11:00:43] WF_Shoresy8: Cyber_Ops: CyberCom_Ops working
+[11:00:52] Hydro_SL: @Intel ops , status emissions on VHF when able. 
+[11:01:29] Hydro_SL: @Intel status id updates 840/41/45/46
+[11:02:02] Hydro_SL: @AOC tasking inv to Tiger flight when threat is attrited to sfc tracks 
+[11:02:08] WF_Clark: Analysis_Center01 (Analysis Center): @Intel_Ops (Intelligence Operations Center) From 1207Z to 1212Z Radio emmission were detected at location G operating on low frequencies. in Lane Mandalay
+[11:02:12] Hydro_MSO: Intel, color TN 44839/42/43/44
+[11:02:55] Hydro_MSO: Intel, any status on TN 44868
+[11:02:55] Hydro_SL: hydro c , lane mandalay 
+[11:03:10] Hydro_MSO: Intel, any status TN 44869
+[11:03:24] WF_Chairman: ROCK_SL: Hydro_SL, TR34 targeted TN 44836 4x ship J-10
+[11:03:47] Hydro_SL: TR23 10 min pt, winchester, enr rtb 
+[11:03:51] Hydro_SL: @AOC^
+[11:03:51] Hydro_MSO: c, TN44836 tagged J10
+[11:04:02] WF_FYST: intelops: @ Hydro_SL VHS comms from poss TBM garrision. emmissions are routine maintenance checks on systems.
+[11:04:09] WF_Clark: SCREWTOP (E-2D HAWKEYE): @AOC_Ops (Air Operations Center) SD have BOOMBOX23 (EA37) go buzzer on to support Bone11 ingress in Lane Luxor
+[11:04:11] Hydro_SL: @Intel ops c ty 
+[11:04:21] WF_Chairman: Rock_SL: @AOC_CCO, Splash TN 44836 4x ship
+[11:04:32] WF_Shoresy8: Intel_Ops: Hydro_MSO TN 44868 1xDDG, TN 44869  1x DDG
+[11:04:45] Hydro_SL: Hydro c buzzer on for bmbx23
+[11:04:57] WF_FYST: intelops: @ Hydro_SL TN# 40 = 4x J-11, 35 = 4x J-10
+[11:04:58] wf_beep: AOC_CCO: @Rock c splash 4
+[11:05:10] Hydro_MSO: c, TN44868/69 tagged DDG
+[11:05:47] Hydro_MSO: c, TN44840 tagged 4x J-11 and 35 4x J10
+[11:06:14] WF_Clark: JSTARS_01 (E-8 JSTARS): @AOC_Ops (Air Operations Center) TBM Track # L2079 inbound, expected point of impact IVO 21.768383572967906, -72.28610226005773, CEP .5km, ETA +30 min in Lane Luxor
+[11:06:26] wf_beep: JPJones_CIC: @AOC_CCO, on station east of Lane Wynn, 24 birds available
+[11:06:41] Hydro_SL: @AOC , tasking TR71 smack 2x DDG TN 44868/69 
+[11:06:50] Hydro_SL: @AOC force packaging now 
+[11:07:33] wf_beep: AOC_CCO: @Hydro c smack pkg, we have the John Paul Jones on station, 24 interceptors avail
+[11:07:47] Hydro_SL: @AOC TR69 , Bailout , working JPRC and updates
+[11:08:00] WF_Clark: Analysis_Center01 (Analysis Center): @Intel_Ops (Intelligence Operations Center) From 1210Z to 1215Z Radio emmission were detected IVO 28.387296666883145, -80.61614972659227 operating on VHF. in Lane Flamingo
+[11:08:06] wf_beep: AOC_CCO: @Hydro , @JPRC akc pls
+[11:08:13] Hydro_SL: @JPR last known TR69 B/e 317/34
+[11:08:20] wf_beep: JPRC: c TR69
+[11:08:30] Hydro_SL: @JPR OSC unable due to threat 
+[11:08:52] WF_FYST: IntelOps: @ Hydro_MSO VHS comms are routine systems maintenance check at TBM garrison.
+[11:08:56] Hydro_SL: @AOC stby MY01 TOT for smack tasking 2x DG
+[11:09:00] Hydro_SL: DDG
+[11:09:12] wf_beep: AOC_CCO: @JPRC c unable, contacting allied prc
+[11:09:21] Hydro_SL: @TR69 , good chutes BE 315/38 
+[11:09:38] Hydro_SL: @JPR , TR69 good chutes 315/38 
+[11:09:50] Hydro_MSO: c TR69 update
+[11:09:55] Hydro_SL: @JPRC OSC now tR93 
+[11:10:00] WF_Clark: WOC_OPS (Wing Operations Center): @AOC_Ops (Air Operations Center) Currently have lightening within 5, all aircraft on a ground stop. 
+[11:10:30] Hydro_SL: @AOC Ops, c lightening update when storm passed 
+[11:11:00] Hydro_SL: @AOC Wz01/02 providing sead for smack 2x DDG 44868/69
+[11:12:05] Hydro_SL: @Cyberops update sfc tracks 44849/96/97 when able
+[11:12:18] WF_Clark: SCREWTOP (E-2D HAWKEYE): @AOC_Ops (Air Operations Center) SPIRIT22 (B-2) is fragged minus 1 LRASM in Lane Flamingo
+[11:12:32] WF_Shoresy8: Cyber_Ops Hydro_SL Working
+[11:12:41] wf_beep: AOC_CCO: @Hydro copy wx, do you need the John Paul Jones to target anything ivo Lane Wynn?
+[11:13:10] WF_FYST: IntelOPS: @ Hydro_SL TN 44869 is commercial vessel
+[11:13:26] Hydro_SL: @AOC, affirm stby 
+[11:13:35] WF_Chairman: ROCK_SL: Hydro_SL, TN44968 commercial a/c headed to Lane Wynn
+[11:13:35] WF_FYST: IntelOPS: @ Hydro_SL correction TN 44896 is commercial vessel
+[11:13:38] WF_Clark: AOC_Ops (Air Operations Center): @JOC_OPS (Joint Operations Center) TBM Track # B3140 impact IVO MACG location 30.539984794025166, -79.32063105996049 in Lane Bellagio
+[11:13:38] Hydro_MSO: c, tagging 69 comm vessel
+[11:14:46] Hydro_SL: @AOC have JPJ tgt b/e 042/58 TN 44853
+[11:14:55] Hydro_SL: @AOC , hostile single contact
+[11:14:58] wf_beep: JPJ_CIC: @Hydro, c target tn 44853, birds affirm, any friends nearby?
+[11:15:02] WF_Clark: SCREWTOP (E-2D HAWKEYE): @TOC02_OPS (Tactical Operations Center 02) RHINO11 (FA-18E) dropping tanks in Lane Bellagio
+[11:15:31] WF_Chairman: Boulder_SL: @SCREWTOP, copy
+[11:15:51] Hydro_SL: @AOC tr81 elev 290, c birds affirm , once tr level , eng TK 44853
+[11:16:01] wf_beep: JPJ_CIC: @Hydro, we see Tiger 81 elevator 290, we have his PPLI, Birds away tn 44853
+[11:16:04] WF_Shoresy8: Cyber_Ops: Hydro_SL TN44849 Commercial Vessel, TN44896 DDG 1, TN4897 Commercial vessel
+[11:16:48] Hydro_SL: @JPJ engage tk 44853
+[11:17:12] Hydro_SL: Mildecon complete
+[11:17:22] WF_Clark: CyberCOM_OPS (Cyber Command Unit): @Cyber_Ops (Cyber Operations Center) Ref network 1, event: change in suspicious scan network traffic found on Airbase Donatello unclassified network
+[11:17:38] wf_beep: JPJ_CIC:  splash tn 44853
+[11:18:12] WF_Shoresy8: Cyber_Ops: @CyberCom_Ops  Investigating 
+[11:18:16] Hydro_SL: @cyber hydro c 
+[11:18:58] Hydro_MSO: Intel, color TN 44976
+[11:19:03] WF_Clark: Analysis_Center01 (Analysis Center): @Intel_Ops (Intelligence Operations Center) From 1201Z to 1203Z Radio emmission were detected IVO 29.21303916211979, -81.01108978876046 operating on VHF in Lane Mandalay
+[11:19:09] WF_FYST: IntelOPS: @ Hydro_MSO copy, stand by.
+[11:19:11] Hydro_MSO: Intel, color TN 44977
+[11:19:13] WF_Chairman: Boulder_SL: @AOC BE03 and GT02 declaring emergency, standby further
+[11:19:57] Hydro_SL: @Bldr SL c, BE03 and GT02 standing by to help with coord with JPR 
+[11:20:31] Hydro_SL: @Boulder SL, did you copy intel update for emissions 
+[11:20:39] Hydro_MSO: Intel, color TN 44993/94/95/96
+[11:20:42] WF_FYST: IntelOPS: @AnalysisCenter, copy.
+[11:21:04] Hydro_SL: @ISR, req slew radars for update on lane mandalay for possible adversary activity
+[11:21:28] WF_Chairman: Boulder_SL: Hydro_SL, negative confirm timestamp?
+[11:21:30] wf_beep: AOC_SIDO: @Hydro c lane mandalay thx for the point out!
+[11:21:33] WF_Clark: AOC_Ops (Air Operations Center): @Hydro_SL Lightening restrictions lifted
+[11:21:36] WF_FYST: IntelOPS: @ Hydro_SL working support.
+[11:21:52] Hydro_SL: @AOC req GAR for support in southern lanes dt emerg and activity 
+[11:22:05] WF_Clark: AOC_Ops (Air Operations Center): @TOC01_OPS (Tactical Operations Center 01) You now have SADC duties for Lanes Bellagio and Luxor
+[11:22:16] Hydro_SL: @AOC ops c weather restriction lifted
+[11:22:33] WF_FYST: IntelOps: @ Hydro_MSO, TN 44993/94/95/96 are all 1x J-15 each track.
+[11:22:52] Hydro_MSO: c, tagging 93/94/95/96 J15
+[11:23:04] Hydro_SL: @AOC PR 55 meeting with WD and MY for enr AAR dt 5 min PT 
+[11:23:07] WF_Chairman: Rock_SL: @AOC_OPS, copy SADC for Bellagio/Luxor
+[11:23:59] wf_beep: JPJ_CIC: @Hydro_SL Birds Affirm on TNs 44953, 45044, and 78044, ready to engage
+[11:24:00] Hydro_SL: @Bldr SL - apologies : 
+[11:24:01] Hydro_SL: (11:23:34) wf_beep: JPJ_CIC: @Hydro_SL Birds Affirm on TNs 44953, 45044, and 78044, ready to engage
+[11:24:01] Hydro_SL:  
+[11:24:04] WF_Clark: Floater09_OPS (USS McCain DDG): @Maritime_OPS (Maritime Operations Center) Engaging Civilan ship at 25.39474562731325, -75.85869068354299 in self-defense in Lane Bellagio
+[11:24:08] Hydro_SL: disregard last
+[11:24:08] Hydro_MSO: Intel,, color TN 44953
+[11:24:32] Hydro_SL: @Bldr SL timestamp 11:18:38 for emissions
+[11:24:35] WF_FYST: IntelOPS: @ Hydro_SL no more ISR available for Lane Mandalay. VHF comms activity IVO is still just routine systems maintenance checks.
+[11:25:08] Hydro_SL: @maritiime civ ship 
+[11:25:16] wf_beep: JPJ_CIC: @Hydro_SL Birds Affirm on TNs 44953, 45044, and 78044, ready to engage
+[11:25:52] Hydro_SL: @AOC req ftr support to inv civ ship  25.39474562731325, -75.85869068354299 
+[11:26:04] Hydro_SL: @ROCK SL , see above
+[11:26:08] Hydro_MSO: Intel, request color TN 45013/14
+[11:26:12] WF_Clark: Floater08_OPS (USS Liberty DDG): @Maritime_OPS (Maritime Operations Center) Responding to Freedoms' (LCS) distress call
+[11:26:21] wf_beep: AOC_CCO: @Hydro_SL working civ ship spt
+[11:26:35] Hydro_SL: @JPRC , standby updates for distress call from Freedom 
+[11:26:37] WF_Chairman: Boulder_SL: Hydro_SL, copy chat ref emissions 
+[11:27:06] WF_FYST: IntelOPS: @ Hydro_MSO TN 53 is dead
+[11:27:31] Hydro_MSO: c, TN53 dead
+[11:28:00] Hydro_SL: @AOC TR81 flameout, eng fire 
+[11:28:20] WF_FYST: IntelOPS: @ Hydro_MSO TNs 13/14  are J-15s
+[11:28:26] Hydro_SL:  @AOC TR81 bailout working with JPR 
+[11:28:28] WF_Clark: Floater11_OPS (USS Zumwalt DDG): @Maritime_OPS (Maritime Operations Center) Initiated strike on target BE-121, 24 TLAMS launched, 38 TLAMS remaining in Lane Flamingo
+[11:28:32] Hydro_SL: @JPRC Bailout TR81, establishing OSC 
+[11:29:09] Hydro_SL: @JPRC TR71 , est OSC tr81, neg on shutes 
+[11:29:28] Hydro_SL: @AOC TR23 , hit 
+[11:29:38] WF_Chairman: Rock_SL: @AOC_OPS, @JPRC, GT06 1x personnel  recovered. KT01 en route RTB
+[11:29:38] wf_beep: JPRC: @Hydro c, we're outa schlitz here, hope folks remember how to swim...
+[11:30:01] WF_Clark: Analysis_Center01 (Analysis Center): @Intel_Ops (Intelligence Operations Center) From 1220Z to 1228Z Radio emmission were detected IVO 29.21303916211979, -81.01108978876046 operating on VHF in Lane Flamingo
+[11:30:33] WF_FYST: IntelOPS: @AnalysisCenter. copy. 
+[11:30:35] Hydro_SL: @JPRC , c beddown for bailout
+[11:30:55] Hydro_SL: @Hydro KIO
+[11:31:00] WF_Shoresy8: ENDEX
